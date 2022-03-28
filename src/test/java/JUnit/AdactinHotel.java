@@ -102,6 +102,6 @@ public class AdactinHotel extends BaseClass {
 	
 	@Test
 	public void BookingConfirmation() throws IOException, InterruptedException {
-
+Thread.sleep(5000);
 	}
 }
