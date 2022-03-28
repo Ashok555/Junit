@@ -35,6 +35,7 @@ public class AdactinHotel extends BaseClass {
 	@After
 	public void AfterScreenShot() throws IOException {
 		BaseClass.screenShot("Akonafter");
+		BaseClass.screenShot("Akonafter");
 	}
 
 	@Test
